@@ -17,8 +17,12 @@
 
 <p>Ao executar o programa escolha quantas temperaturas quer converter (no caso do exercício é pedido uma tabela com 5 itens). </p>
 
+![resultado_ex2_inicio_console](https://user-images.githubusercontent.com/38111460/173623987-093b5d63-4116-408a-8c01-92f3533df367.PNG)
 
 <p>Agora iremos cadastrar a temperatura e a escala de origem para cada item (é esperado c, f ou k como parametros de escala). </p>
 
+![resultado_ex2_meio_console](https://user-images.githubusercontent.com/38111460/173624223-405dddc1-fa84-4e4a-892d-aa40922816b3.PNG)
+
 <p>Ao terminar o programa irá converter as temperaturas e imprimir uma espécie de tabela no console (não gastei muito tempo tentando estilizar este passo... afinal não faz parte do objetivo aqui.O intuíto era tornal mais 'visual'). </p>
 
+![resultado_ex2_final_console](https://user-images.githubusercontent.com/38111460/173623818-33a9266a-afe2-4c5d-9867-9dd4c9ab2344.PNG)
