@@ -10,6 +10,9 @@
     <li><b>Função Tratamento_Cartao()</b>: Recebe a trilha do cartão e destrincha todos os dados. Essa é a função principal do programa e está chamando dentro dela as demais funções. Retorna um objeto (json) com todos os dados do cartão descritos. O resultado é igual a imagem abaixo. Também é possível ver um arquivo de resultados dentro do repositório (resultado.json)</li><br>
 </ul>
 
+![resultado_ex5_final_console](https://user-images.githubusercontent.com/38111460/173625224-5beb8ae4-b316-4eac-b9aa-202f72b0e9dc.PNG)
+
+
 <br>
 <br>
 
