@@ -1,0 +1,97 @@
+{
+    'cartao;854922420655947=20087011490683843?': {
+      'nome_banco': 'omicron',
+      'identificador_banco': '854922',
+      'data_expiracao': '2008',
+      'valido?': 'Vencido',
+      'codigo_pan': ';854922420655947'
+    }
+  }{
+    'cartao;722792821249=190220153666234?': {
+      'nome_banco': 'kappa',
+      'identificador_banco': '722792',
+      'data_expiracao': '1902',
+      'valido?': 'Vencido',
+      'codigo_pan': ';722792821249'
+    }
+  }{
+    'cartao;8657607910110=2209701507597562?': {
+      'nome_banco': 'omicron',
+      'identificador_banco': '865760',
+      'data_expiracao': '2209',
+      'valido?': 'Valido',
+      'codigo_pan': ';8657607910110'
+    }
+  }{
+    'cartao;6034523459017=24032012187993726?': {
+      'nome_banco': None,
+      'identificador_banco': '603452',
+      'data_expiracao': '2403',
+      'valido?': 'Valido',
+      'codigo_pan': ';6034523459017'
+    }
+  }{
+    'cartao;83407977524115=2010701164703842?': {
+      'nome_banco': None,
+      'identificador_banco': '834079',
+      'data_expiracao': '2010',
+      'valido?': 'Vencido',
+      'codigo_pan': ';83407977524115'
+    }
+  }{
+    'cartao;22554987787910=1903201221224791?': {
+      'nome_banco': 'kappa',
+      'identificador_banco': '225549',
+      'data_expiracao': '1903',
+      'valido?': 'Vencido',
+      'codigo_pan': ';22554987787910'
+    }
+  }{
+    'cartao;7621767951747=21112018460506111?': {
+      'nome_banco': 'kappa',
+      'identificador_banco': '762176',
+      'data_expiracao': '2111',
+      'valido?': 'Valido',
+      'codigo_pan': ';7621767951747'
+    }
+  }{
+    'cartao;24478927568913=230470179307259?': {
+      'nome_banco': 'kappa',
+      'identificador_banco': '244789',
+      'data_expiracao': '2304',
+      'valido?': 'Valido',
+      'codigo_pan': ';24478927568913'
+    }
+  }{
+    'cartao;88674481889649=19062014166695784?': {
+      'nome_banco': 'iota',
+      'identificador_banco': '886744',
+      'data_expiracao': '1906',
+      'valido?': 'Vencido',
+      'codigo_pan': ';88674481889649'
+    }
+  }{
+    'cartao;76985229117350=1805701127970335?': {
+      'nome_banco': 'kappa',
+      'identificador_banco': '769852',
+      'data_expiracao': '1805',
+      'valido?': 'Vencido',
+      'codigo_pan': ';76985229117350'
+    }
+  }{
+    'cartao;2147686439882=2712701977197697?': {
+      'nome_banco': 'kappa',
+      'identificador_banco': '214768',
+      'data_expiracao': '2712',
+      'valido?': 'Valido',
+      'codigo_pan': ';2147686439882'
+    }
+  }{
+    'cartao;86392841965929=2108201878359745?': {
+      'nome_banco': 'omicron',
+      'identificador_banco': '863928',
+      'data_expiracao': '2108',
+      'valido?': 'Valido',
+      'codigo_pan': ';86392841965929'
+    }
+  }
