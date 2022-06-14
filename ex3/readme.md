@@ -8,6 +8,8 @@
     <li><b>Função numeros_apartamentos()</b>: Recebe o numero de andares e o numero de apartamentos por andar. Realiza o calculo do numero de cada apartamento multiplicando o numero do andar por 10 (dez), 100 (cem) ou 1000 (mil) dependendo do número de apartamentos por andar.Essa função retorna um dicionário python com os andares e uma lista de seus respectivos apartamentos.Confira abaixo uma imagem de exemplo da saída deste programa, ou se preferir acesse o arquivo "resultado.txt" que se encontra neste repositório.</li><br>
 </ul>
 
+![resultado_ex3_final](https://user-images.githubusercontent.com/38111460/173624607-54fe2bfe-dd89-41f3-ab33-a62d45706907.PNG)
+
 <br>
 <br>
 
