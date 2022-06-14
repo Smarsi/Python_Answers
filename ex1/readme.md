@@ -10,3 +10,5 @@
 </ul>
 
 <p>Veja abaixo um exemplo de entrada/saida do programa.</p>
+
+![resultado_ex1_final](https://user-images.githubusercontent.com/38111460/173623655-fc293c06-32a6-48e2-8709-f4cf48b2567d.PNG)
